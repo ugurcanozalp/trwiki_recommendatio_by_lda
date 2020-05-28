@@ -1,0 +1,45 @@
+* Paper'ı diğerlerinden ayıran noktalar.
+Türkçe veri seti üstünde yapılmış olması ve türkçenin eklemeli dil olması. 
+Neden KL kullandık ama diğerlerini kullanmadık. (Karşılaştırılan vektörler aslında olasılık dağılımı olduğu için.) *****
+Hyperparameter selection (perplexity)
+
+* Eklenecekler
+Türkçe ve zemberek ile ilgili notlar Abstract'a da eklenebilir. *****
+Recommendation system de history topic dağılımı ile ilgili yapılan açıklama iyileştirilecek. *****
+
+Literature review özetlenip daha çok açıklama yapılacak.
+Perplexity ile ilgili açıklama eklenecek, referans vererek. (Training ve Validation perplexity değerleri bakılarak.). Perplexity nedir ?
+scikit learn cite edilip edilmeyeceğine bakılacak.
+
+--- *** YAPILDI AMA PAPER'A EKLENMEDI
+History setler oluşturulacak.
+5 tane topic / human evaluated
+
+klasik müzik
+türkiye futbolu
+orta çağ avrupa tarihi
+matematik ve olasılık teorisi machine learning vs.
+ceza hukuku
+din ve ilahiyat
+ikinci dünya savaşı, birleşmiş milletler, ab
+---
+
+* Future work
+LDA dışında başka topic modeller kullanılabilir. Ama LDA topic arasındaki en kullanışlı olanı.
+LDA dışında language modeller kullanılabilir. LDA language model değil.
+User study yapılabilir.
+KL dışında başka metricler kullanılabilir. *****
+
+----------
+Not: History setler oluşturuldu ama paper'a eklenmedi henüz.
+* Paper'ı diğerlerinden ayıran noktalar.
+Türkçe veri seti üstünde yapılmış olması ve türkçenin eklemeli dil olması. 
+Hyperparameter selection (perplexity)
+* Eklenecekler
+Literature review özetlenip daha çok açıklama yapılacak.
+Perplexity ile ilgili açıklama eklenecek, referans vererek. (Training ve Validation perplexity değerleri bakılarak.). Perplexity nedir ?
+scikit learn cite edilip edilmeyeceğine bakılacak.
+* Future work
+LDA dışında başka topic modeller kullanılabilir. Ama LDA topic arasındaki en kullanışlı olanı.
+LDA dışında language modeller kullanılabilir. LDA language model değil. (Bunu ben yaparım, üstüne biraz çalıştım.)
+User study yapılabilir.

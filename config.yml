@@ -1,0 +1,14 @@
+data:
+  #name: TRWikiProject
+  #datafolder: E:\data\turkish_corpus
+  #rawcsv: turkish_wikipedia_dump_20200401.csv
+  #processedcsv: processed\turkish_wikipedia_dump_20200401_processed.csv
+  #linkscsv: turkish_wikipedia_dump_20200401_titles_and_refs.csv
+  name: TRNews70000
+  datafolder: E:\data\turkish_corpus
+  rawcsv: turkish_news_70000.csv
+  processedcsv: processed\turkish_news_70000_processed.csv
+  linkscsv: None
+parameters:
+  n_topic: 70
+  n_gram: [1,2]
